@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello Everyone Here Aymane SA
 
 # 💫 About Me:
 CyberSecurity
@@ -17,8 +17,7 @@ CyberSecurity
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Armane1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Armane1&icon=5&color=1)](https://visitcount.itsvg.in)
